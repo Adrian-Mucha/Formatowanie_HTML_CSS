@@ -1,0 +1,16 @@
+#tabela1{
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid black;
+    text-align: center;
+}
+.naglowek{
+    background-color: lightgreen;
+    text-align: center;
+    font-weight: bold;
+    color : white
+}
+#tabela1 td, #tabela1 th{
+    border: 1px solid black;
+    padding: 8px;
+}
