@@ -1,0 +1,20 @@
+
+
+.plan{
+    border-collapse: collapse;
+    border: 2px solid black;
+
+}
+.plan th, 
+.plan td {
+    border: 1px solid #666; 
+    padding: 10px
+   
+}
+th{
+    background-color: black;
+    color : white;
+}
+.sum{
+    background-color: yellow;
+}
