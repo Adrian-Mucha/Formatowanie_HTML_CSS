@@ -1,0 +1,16 @@
+ul{
+    list-style-type: none;
+    background-color: black;
+    color: white;
+}
+li{
+    display: inline;
+    padding: 5px;
+    text-align: center;
+    
+}
+li:hover{
+    background-color: grey;
+    color: black;
+    cursor: pointer;
+}
