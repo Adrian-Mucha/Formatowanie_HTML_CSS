@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+button{
+    border: 2px lime;
+    background-color: lime;
+    color:  #ffffff;
+    width: 200px;
+    height: 50px;
+}
